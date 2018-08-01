@@ -9,3 +9,6 @@ rookie_hello()
 \description{
 This is a test
 }
+\examples{
+rookie_hello()
+}
